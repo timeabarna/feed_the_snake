@@ -7,8 +7,8 @@ For Windows:
 
 For Linux (Ubuntu with GUI):  
 1. enter the directory you have downloaded the files  
-2. run build.sh  
-3. start run.sh for playing  
+2. run sh build.sh  
+3. start sh run.sh for playing  
 
 Snake movement is having bugs at the moment.  
 You can move the sanke with up, down, left and right arrow keys.  
